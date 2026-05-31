@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterderify",
+        "uuid": 22938032,
+        "checksum": "9rrgun"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
